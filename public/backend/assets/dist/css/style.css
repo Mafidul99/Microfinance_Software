@@ -1,0 +1,42 @@
+.accout_menu {
+    color: #8d8e91;
+}
+
+.bg-color1 {
+    background-color: #a300ff !important;
+    color: #fff !important;
+}
+
+.bg-color2 {
+    background-color: #003c60 !important;
+    color: #fff !important;
+}
+
+.brandname {
+    font-weight: 700 !important;
+    font-size: 22px !important;
+    font-family: sans-serif !important;
+    color: #ffffff !important;
+    padding-left: 10px;
+}
+
+.modalred {
+    font-size: 20px !important;
+    color: #ff0000 !important;
+}
+
+.btn-box-tool {
+    padding: 5px;
+    font-size: 15px;
+    background: transparent;
+    color: rgb(151, 160, 179);
+}
+
+.titlecard1 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.profileth {
+    width: 22px;
+}
